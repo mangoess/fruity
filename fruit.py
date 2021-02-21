@@ -11,12 +11,8 @@ def fruit(fruit):
 def fruit(element):
   y = requests.get('https://fruityvice.com/api/fruit/{}'.format(fruit) )
   data = (y.text)
-  json_object = json.loads(x.text)
+  json_object = json.loads(y.text)
   print(json_object["{}"].format(element) )
-  
-  
-  
-  
 
 #x = requests.get('https://fruityvice.com/api/fruit/(fruit)')
 #print("\n", x.text)
