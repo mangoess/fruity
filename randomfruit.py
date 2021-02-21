@@ -5,7 +5,7 @@ import random
 import json
 
 def fruit(fruit):
-  x = requests.get('hhttps://fruityvice.com/api/fruit/', fruit)
+  x = requests.get('https://fruityvice.com/api/fruit/', fruit)
   print("Sent With Status Code", x.status_code)
   print(x)
   
