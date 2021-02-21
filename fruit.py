@@ -1,12 +1,10 @@
 import requests
 import time
-import threading
-import random
 import json
 
 def fruit(fruit):
-  x = requests.get('https://fruityvice.com/api/fruit/', fruit)
-  print("Sent With Status Code", x.status_code)
+  x = requests.get('https://fruityvice.com/api/fruit/{}'.format(fruit)
+  print("Status Code", x.status_code)
   print(x)
   
   # GETTING INFORMATION OFF : https://fruityvice.com/api/fruit/(fruit)
