@@ -1,4 +1,4 @@
-# fruity.py
+# fruity
 My first pip package, all about fruits!
 
 # CODE
