@@ -2,13 +2,13 @@ import requests
 import time
 import json
 
-def fruit(fruit):
+def fr(fruit):
   x = requests.get('https://fruityvice.com/api/fruit/{}'.format(fruit) )
   print("Status Code", x.status_code)
-  print(x)
+  print(x.text)
   
   
-def fruit(element):
+def el(element):
   y = requests.get('https://fruityvice.com/api/fruit/{}'.format(fruit) )
   data = (y.text)
   json_object = json.loads(y.text)
