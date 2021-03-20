@@ -11,7 +11,7 @@ setup(
     name="fruity",
     version=VERSION,
     author="mangoess",
-    author_email="<adamtamers@outlook.com>",
+    author_email="lol im not putting that on github@lol.com",
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     long_description=LONG_DESCRIPTION,
