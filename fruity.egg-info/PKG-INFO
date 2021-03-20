@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: fruity
+Version: 0.1.0
+Summary: A module all about fruits!
+Home-page: UNKNOWN
+Author: mangoess
+Author-email: <adamtamers@outlook.com>
+License: UNKNOWN
+Description: fruity.py offers everything you need to know about researching fruits!
+Keywords: python,fruit,fruits
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: Microsoft :: Windows :: Windows 10
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
