@@ -17,4 +17,8 @@ Listed below are all the issues I found :
 **-** If you open a python script and do import fruity, it will appear like it has not been downloaded
 **-** It won't work if you download a specific version, just 'pip install fruity'...
 
-***IF YOU KNOW HOW TO FIX THESE ERRORS, PLEASE CONTACT ME AT mango#6205 (that's my discord).***
+***IF YOU KNOW HOW TO FIX THESE ERRORS, PLEASE CONTACT ME AT mango#4904 (that's my discord).***
+
+# NOTICES
+
+yeah i have literally no clue how to fix this, If you know how to help me, please contact me on discord or submit an issue!
