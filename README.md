@@ -1,3 +1,7 @@
+# Unfortunately
+## I no longer have access to Fruity
+### I lost access to my pypi account and fruity is going to have to be worked on heavily in order to combat this unfortunate event
+
 # fruity
 My first pip package, all about fruits!
 
